@@ -18,8 +18,7 @@ div.circle {
   text-align: center;
   margin-top: 50px;
   padding: 20px;
-  margin-left: 35%
-   ;
+  margin-left: 35%;
 }
 #image {
   float: left;
@@ -31,4 +30,7 @@ div.circle {
   border-width: 20px;
   background-color: blueviolet;
   margin-left:  35%;
+}
+* {
+  background-color: rgba(183, 8, 157, 0.263);
 }
